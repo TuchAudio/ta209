@@ -20,7 +20,7 @@ As previously mentioned, this is a **very versatile** design, and could serve a 
 #### Headphone amp
 - Reduce power supply to no more than **+/- 12 Volts**.
 - Remove `Q3/Q4` and make a **bridge** between each unused Collector and Emitter.
-- Do NOT populate `Q10/Q11/R10/R11`.
+- Do NOT populate `Q10/Q11/R10/R11/F1/F2`.
 - Replace `D4/D5` and `D6/D7` by **jumpers**.
 - At `R9/R16` use **1Ω5** instead of 330.
 - At `R15` use **10 KΩ** instead of 680. Then, `C3` could be as low as **2µ2**.
@@ -29,8 +29,8 @@ As previously mentioned, this is a **very versatile** design, and could serve a 
 
 ## Specs
 
-- **Power supply:** TBD
-- **Gain:** TBD (+26 dB)
+- **Power supply:** from +/- 6 V to +/- 30 V
+- **Gain:** typically x50 (+26 dB)
 - **Input sensitivity:** 180 mV
 - **Input impedance:** 47 kΩ
 - **Output level and impedance:** 26 Vpp / 4 Ω
