@@ -30,10 +30,11 @@ As previously mentioned, this is a **very versatile** design, and could serve a 
 ## Specs
 
 - **Power supply:** from +/- 6 V to +/- 30 V
-- **Gain:** typically x50 (+26 dB)
+- **Gain:** typically x50 (+34 dB)
 - **Input sensitivity:** 180 mV
 - **Input impedance:** 47 kΩ
-- **Output level and impedance:** 26 Vpp / 4 Ω
+- **Output level:** 26 Vpp (with +/- 15 V supply)
+- **Speaker impedance:** 4 Ω or higher (depending on heatsinks)
 - **Frequency response:** TBD
 - **Distortion:** TBD
 
